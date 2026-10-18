@@ -1,0 +1,8 @@
+node_modules/
+android/
+*.jks
+*.keystore
+release.jks
+aligned.apk
+khaneyab-release.apk
+.DS_Store
